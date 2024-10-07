@@ -3289,6 +3289,7 @@ h1 {
   align-items: center;
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 .league-user-info-top .exchange-image {
   align-items: center;
