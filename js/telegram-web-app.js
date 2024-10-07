@@ -750,7 +750,7 @@
     if (initParams.tgWebAppDebug) {
       debugBtn = document.createElement('tg-main-button');
       debugBtnStyle = {
-        font: '600 14px/18px sans-serif',
+        font: '600 14px/18px Blockers',
         display: 'none',
         width: '100%',
         height: '48px',
