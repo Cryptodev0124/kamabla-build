@@ -698,6 +698,9 @@ h1 {
 }
 .airdrop-item-content {
   flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .airdrop-item-content-soon {
   background: #35a5e9;
@@ -710,8 +713,6 @@ h1 {
 }
 .airdrop-item-content-top {
   font-size: 12px;
-  margin-bottom: 4px;
-  margin-top: 2px;
 }
 .airdrop-item-content-bottom {
   align-items: center;
