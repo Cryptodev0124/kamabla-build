@@ -1563,7 +1563,7 @@ h1 {
   justify-content: center;
   min-width: 72px;
   padding: 0 8px;
-  width: 85px;
+  width: 72px;
 }
 .earn-item-image img,
 .earn-item-image svg {
@@ -1583,7 +1583,7 @@ h1 {
   padding-right: 4px;
 }
 .earn-item-content-top {
-  font-size: 16px;
+  font-size: 22px;
   margin-bottom: 4px;
   margin-top: 4px;
   color: #662d91;
