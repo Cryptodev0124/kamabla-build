@@ -3279,7 +3279,7 @@ h1 {
   text-align: right;
 }
 .league-user-info {
-  align-items: flex-start;
+  align-items: center;
   display: flex;
   flex: 1 1 auto;
   flex-direction: row;
@@ -3289,6 +3289,7 @@ h1 {
 .league-user-info-top {
   align-items: center;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   width: 100%;
 }
