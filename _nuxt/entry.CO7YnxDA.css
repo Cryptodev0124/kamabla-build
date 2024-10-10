@@ -664,6 +664,7 @@ h1 {
   width: 40%;
   color: yellow;
   text-align: center;
+  margin: 5px auto;
 }
 .airdrop-item.is-connect_ton_wallet .airdrop-item-icon-success {
   background: #fff;
